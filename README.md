@@ -1,4 +1,4 @@
-# Amusement Park Ride Queue System
+## Amusement Park Ride Queue System
 
 This is a console-based queue management system for amusement park rides.  
 It allows park staff to efficiently manage ride queues with the following features:
